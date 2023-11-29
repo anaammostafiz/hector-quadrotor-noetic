@@ -28,7 +28,7 @@ cd ~/catkin_ws && catkin_make
 
 III. Clone `hector_quadrotor_noetic`.
 ```sh
-git clone https://github.com/RAFALAMAO/hector_quadrotor_noetic.git
+git clone https://github.com/anaammostafiz/hector-quadrotor-noetic
 ```
 
 IV. Repeat step II.
